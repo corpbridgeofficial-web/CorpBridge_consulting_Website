@@ -1,0 +1,326 @@
+{
+  "artificial-intelligence-and-data": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/artificial-intelligence-and-data-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/artificial-intelligence-and-data-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/artificial-intelligence-and-data.webp"
+      }
+    ]
+  },
+  "cloud": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/cloud-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/cloud-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/cloud.webp"
+      }
+    ]
+  },
+  "cybersecurity": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/cybersecurity-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/cybersecurity-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/cybersecurity.webp"
+      }
+    ]
+  },
+  "digital-engineering-and-manufacturing": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/digital-engineering-and-manufacturing-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/digital-engineering-and-manufacturing-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/digital-engineering-and-manufacturing.webp"
+      }
+    ]
+  },
+  "customer-service": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/customer-service-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/customer-service-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/customer-service.webp"
+      }
+    ]
+  },
+  "ecosystem-partners": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/ecosystem-partners-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/ecosystem-partners-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/ecosystem-partners.webp"
+      }
+    ]
+  },
+  "emerging-technology": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/emerging-technology-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/emerging-technology-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/emerging-technology.webp"
+      }
+    ]
+  },
+  "finance-and-risk-management": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/finance-and-risk-management-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/finance-and-risk-management-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/finance-and-risk-management.webp"
+      }
+    ]
+  },
+  "infrastructure-and-capital-projects": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/infrastructure-and-capital-projects-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/infrastructure-and-capital-projects-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/infrastructure-and-capital-projects.webp"
+      }
+    ]
+  },
+  "learning": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/learning-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/learning-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/learning.webp"
+      }
+    ]
+  },
+  "marketing-and-experience": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/marketing-and-experience-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/marketing-and-experience-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/marketing-and-experience.webp"
+      }
+    ]
+  },
+  "metaverse": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/metaverse-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/metaverse-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/metaverse.webp"
+      }
+    ]
+  },
+  "sales-and-commerce": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/sales-and-commerce-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/sales-and-commerce-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/sales-and-commerce.webp"
+      }
+    ]
+  },
+  "managed-services": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/managed-services-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/managed-services-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/managed-services.webp"
+      }
+    ]
+  },
+  "strategy": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/strategy-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/strategy-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/strategy.webp"
+      }
+    ]
+  },
+  "sustainability": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/sustainability-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/sustainability-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/sustainability.webp"
+      }
+    ]
+  },
+  "talent-and-organization": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/talent-and-organization-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/talent-and-organization-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/talent-and-organization.webp"
+      }
+    ]
+  },
+  "technology-transformation": {
+    "width": 1672,
+    "height": 941,
+    "sources": [
+      {
+        "width": 960,
+        "url": "/assets/images/services/technology-transformation-960.webp"
+      },
+      {
+        "width": 1600,
+        "url": "/assets/images/services/technology-transformation-1600.webp"
+      },
+      {
+        "width": 1672,
+        "url": "/assets/images/services/technology-transformation.webp"
+      }
+    ]
+  }
+}

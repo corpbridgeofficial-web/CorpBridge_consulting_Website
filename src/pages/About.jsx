@@ -1,0 +1,4 @@
+import {PageHero} from './Services';
+import {Reveal,Closing} from '../components/UI';
+import Approach from '../components/Approach';
+export default function About(){return <><PageHero eyebrow="About CorpBridge" title="A bridge to what’s next." description="We connect technology, business and people around a practical path to progress." photo="workshop.png"/><section className="section"><Reveal><span className="eyebrow">Our focus</span><h2>Clear thinking.<br/>Connected possibilities.</h2><div className="about-copy grid md:grid-cols-2 gap-12"><p>Every organization has its own ambitions, challenges and starting point. We begin by understanding yours.</p><p>Our approach brings discovery, planning, delivery and improvement together, keeping the people who use the solution at the center.</p></div></Reveal></section><Approach/><Closing/></>;}
